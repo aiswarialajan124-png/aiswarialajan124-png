@@ -1,57 +1,38 @@
 # Aiswaria Lajan
-Higher Diploma student in Science in Data Analytics at **Atlantic Technological University (ATU)**, Galway, Ireland, with an undergraduate background in Economics adn Information Technology from the University of Galway.
+I'm a Higher Diploma student in Data Analytics at Atlantic Technological University (ATU), Galway, with an undergraduate background in Economics and Information Technology from the University of Galway. 
 
-I am actively seeking opportunities in data analytics, software developement, and database-related roles, with practical experiences in Python, SQL, Flask, and data visualisation gained through academic projects and coursework.
+I'm currently looking for opportunities in data analytics, software development, or database-related roles.
 
-## Education
-**Higher Diploma in Science in Data Analytics**
-Atlantic Technological University (ATU), Galway
-*In progress*
+## Background
+**Higher Diploma in Science in Data Analytics** 
+Atlantic Technologyical University (ATU), Galway *(In progress)*
 
 **BA in Economics and Information Technology**
 University of Galway (NUIG), Galway
-*Completed*
+*(Completed)*
 
 ## Technologies
-**Languages**
-Python · JavaScript · HTML · CSS · SQL
+Python, JavaScript, HTML/CSS,SQL
+MySQL, SQLite, Neo4j
+Flask, Pandas, NumPy, Matplotlib, Seaborn
+Git, VS Code, XAMPP, Jupyter Notebook
 
-**Databases**
-MySQL · SQLite · Neo4j
+## Projects
+### [Finance Tracker](https://github.com/aiswarialajan124-png/WSA-project.git)
+A personal expense tracking web application built with Flask and SQLite. It has user authentication, a full REST API, budget tracking, live EUR/USD conversion, and charts for spending trends. Deployed on PythonAnywhere.
 
-**Libraries & Frameworks**
-Flask · Pandas · Matplotlib · Seaborn · NumPy
+### [AppliedDatabases-project](https://github.com/aiswarialajan124-png/AppliedDatabases-project.git)
+Combines a relational (MySQL) and graph (Neo4j) database to model the same data in two different ways, with Python used to query both.
 
-**Tools**
-Git · GitHub · VS Code · XAMPP · Jupyter Notebook
+### [Iris Dataset Analysis](https://github.com/aiswarialajan124-png/programming_scripting-pands-project.git)
+Exploratory data analysis of the Iris dataset. Includes summary statistics, histograms, scatter plots, box plots, species-level comparisons, and a correlation heatmap.
 
-## Features Projects
-### Finance Tracker : [WSA-project] (https://github.com/aiswarialajan124-png/WSA-project.git)
-A personal expense tracking web application built with Flask and SQLite. Features user authentication, full CRUD via REST API, budget tracking, real-time EUR/USD currency conversion, and interactive charts. Deployed live on PythonAnywhere.
-
-> Python · Flask · SQLite · JavaScript · HTML · CSS · REST API
-
-### Applied Databases Project : [AppliedDatabases-project](https://github.com/aiswarialajan124-png/AppliedDatabases-project.git)
-A project developed as part of the Applied Databases module at ATU.
-
-> MySQL · Neo4j · Python
-
-### Iris Dataset Analysis : [programming_scripting-pands-project](https://github.com/aiswarialajan124-png/programming_scripting-pands-project.git)
-Exploratory data analysis of the Iris dataset using Python. Includes summary statistics, histograms, scatter plots, box plots, species-level comparisons, and a correlation heatmap.
-
-> Python · Pandas · Matplotlib · Jupyter Notebook
-
-### Principles of Data Analytics : [priciples_of_data_analytics](https://github.com/aiswarialajan124-png/principles_of_data_analytics.git)
-A project completed as part of the Principles of Data Analytics module at ATU.
+### [Principles of Data Analytics](https://github.com/aiswarialajan124-png/principles_of_data_analytics.git)
+Applies core data analysis methods to a real dataset, covering cleaning, exploration, and basic statistical analysis.
 
 ## Contact
-- LinkedIn : [https://www.linkedin.com/in/aiswaria-lajan-2083763a3/]
-
-## Currently Open to 
-I am actively seeking opportunities in :
-- Data Analytics
-- Software Development
-- Database-related roles
+LinkedIn : [aiswaria-lajan](https://www.linkedin.com/in/aiswaria-lajan-2083763a3/)
+Based in Galway, Ireland
 - Junior Technological roles
 
 Based in **Galway, Ireland**.
