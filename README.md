@@ -33,6 +33,3 @@ Applies core data analysis methods to a real dataset, covering cleaning, explora
 ## Contact
 LinkedIn : [aiswaria-lajan](https://www.linkedin.com/in/aiswaria-lajan-2083763a3/)
 Based in Galway, Ireland
-- Junior Technological roles
-
-Based in **Galway, Ireland**.
